@@ -1,6 +1,6 @@
 ## Olá pessoal ✌️
 
--  Em desenvolvimento 🚀 : Estudando HTML5, CSS3 e JavaSript.
+-  Em desenvolvimento 🚀 : Estudando HTML5, CSS3 , JavaSrcipt e Java.
 
 <div>
    <a href="https://github.com/ReginaldoGabarra">
